@@ -265,7 +265,7 @@ reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: true
   animation: false
-  comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+  comment: 坚持技术分享，您的支持将鼓励我继续创作！
 
 reward:
   wechatpay: /uploads/wechatpay.jpg
@@ -590,8 +590,8 @@ comments:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: yunfeng
   count: true
   #post_meta_order: 0
 
@@ -609,9 +609,9 @@ disqusjs:
   apikey: # Register new application from https://disqus.com/api/applications/
   shortname: # See: https://disqus.com/admin/settings/general/
 
-# Changyan
+# Changyan 有广告
 changyan:
-  enable: true
+  enable: false
   appid: cyup5ie1m
   appkey: 79843ab1b1f4c04ea9291de4a0446c13
   #post_meta_order: 0
