@@ -593,6 +593,7 @@ disqus:
   enable: true
   shortname: yunfeng
   count: true
+  # lazyload: true
   #post_meta_order: 0
 
 # DisqusJS
