@@ -201,8 +201,8 @@ links_settings:
   layout: inline
 
 links:
-  卡拉搜索: https://kalasearch.cn/
-  卡拉低代码: https://kalacloud.com/
+  # 卡拉搜索: https://kalasearch.cn/
+  # 卡拉低代码: https://kalacloud.com/
   # Title: http://yoursite.com
 
 # Table of Contents in the Sidebar
